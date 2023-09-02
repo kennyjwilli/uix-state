@@ -1,0 +1,2 @@
+{:deps    {com.pitch/uix.core {:mvn/version "0.9.1"}}
+ :aliases {:dev {:extra-deps {org.clojure/clojurescript {:mvn/version "1.11.60"}}}}}

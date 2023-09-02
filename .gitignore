@@ -1,0 +1,28 @@
+.DS_Store
+.nrepl-port
+hs_err_pid*.log
+.cpcache/
+target
+log/
+.shadow-cljs/
+node_modules/
+modules/
+local
+.env
+
+# IntelliJ
+*.iml
+.idea/
+
+# clj-kondo
+.clj-kondo/.cache/
+.calva/output-window/
+.lsp/.cache/
+
+resources/public/css
+resources/public/js
+ssh_keys
+
+# js compilation target dir
+dist
+dist-bin
